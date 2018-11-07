@@ -1,6 +1,6 @@
 ## Algorithms
 
-### Searching, sorting, hashing
+### Searching, sorting, hashing (15)
 * Sorting
   * Heapsort
   * Bubble sort
@@ -14,11 +14,11 @@
   * Hash Function, Hash Table
   * Collision Handling: Chaining, Open Addressing
 
-### Asymptotic worst case time and space complexity
+### Asymptotic worst case time and space complexity (5)
 * Asymptotic notation
 * Time complexity, space complexity
 
-### Algorithm design techniques: greedy, dynamic programming and divide‐and‐conquer
+### Algorithm design techniques: greedy, dynamic programming and divide‐and‐conquer (45)
 * Divide and conquer
   * Max-min
   * Binary search
@@ -45,7 +45,7 @@
   * Longest Common Subsequence (LCS)
   * Sum of subsets problem
 
-### Graph search, minimum spanning trees, shortest paths
+### Graph search, minimum spanning trees, shortest paths (10)
 * Graph search
   * Depth First Search (DFS)
   * Breadth First Search (BFS)
