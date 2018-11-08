@@ -28,14 +28,14 @@
   * Integer multiplication, Karatsuba's algorithm
   * Master theorem
 * Greedy method
-  * Fractional Knapsack (Real Knapsack)
+  * Fractional Knapsack (Real Knapsack, Continuous Knapsack)
   * JSD
   * Minimum spanning trees: Prim's algo, Kruskal's algo
   * Optimal merge pattern
   * Huffman coding
   * Shortest path problem: Dijkstra, Bellman-Ford
 * Dynamic programming
-  * 0/1 Knapsack (Dynamic Knapsack)
+  * Binary Knapsack (0/1 Knapsack, Dynamic Knapsack)
   * Multistage graph
   * Reliability design
   * Travelling salesman problem (TSP)
