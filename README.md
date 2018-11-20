@@ -2,13 +2,12 @@
 
 ### Searching, sorting, hashing (15)
 * Sorting
-  * Heapsort | `A12..`
-  * Bubble sort
   * Selection sort
   * Insertion sort
+  * Bubble sort
+  * Heapsort | `A12..`
   * (Merge sort)
   * (Quicksort)
-  * Randomized Quicksort
 * Hashing | `A13, A14`
   * Dictionaries
   * Hash Function, Hash Table
@@ -24,6 +23,7 @@
   * Binary search
   * Merge sort | `A01 - 3, 4, 5`
   * Quicksort | `A05, A06`
+  * Randomized Quicksort
   * Strassen's matrix multiplication | `A03 - 3`
   * Integer multiplication, Karatsuba's algorithm
   * Master theorem | `A04`
