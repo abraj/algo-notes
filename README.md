@@ -8,6 +8,7 @@
   * Heapsort | `A12..` | `M 21-24`
   * (Merge sort)
   * (Quicksort)
+  * Radix sort | `M 48a`
 * Hashing | `A13, A14`
   * Dictionaries
   * Hash Function, Hash Table
